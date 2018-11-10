@@ -1,4 +1,4 @@
-# talent-fast HackaThon
+# Talent Fest HackaThon
 
 ## Desafio Accenture
 
