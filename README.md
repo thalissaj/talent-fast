@@ -15,23 +15,23 @@ Desejável uma tela para captura de documentos (ex. CNH, CPF e RG) através da
 Câmera do Celular.
 
 ### Critério:
+A Aplicação será avaliada pelos seguintes critérios:
 
-​A Aplicação será avaliada pelos seguintes critérios:
-● Usabilidade
-○ Fluxo de captura de informação
-○ Facilidade no uso (Inteligível)
-○ Padrão Visual (Icones, CSS e Frameworks Visuais)
-○ Mensagem de auxilio para informação imputada erroneamente
-● Interação com serviços (APIs)
-● Validação dos dados imputados (ex. CPF e Telefone)
-● Persistência das informações imputadas
-● Persistência das contas criadas
+* Usabilidade
+* Fluxo de captura de informação
+* Facilidade no uso (Inteligível)
+* Padrão Visual (Icones, CSS e Frameworks Visuais)
+* Mensagem de auxilio para informação imputada erroneamente
+* Interação com serviços (APIs)
+* Validação dos dados imputados (ex. CPF e Telefone)
+* Persistência das informações imputadas
+* Persistência das contas criadas
 
 ### Desafios Adicionais:
+Alguns items para avaliar o grau de conhecimento mais afundo:
 
-​: Alguns items para avaliar o grau de conhecimento mais afundo
-● Implementação da Captura de Imagem
-● Responsividade da aplicação
-● Relatório de Performance (LightHouse)
+* Implementação da Captura de Imagem
+* Responsividade da aplicação
+* Relatório de Performance (LightHouse)
 
 #### Todos os critérios foram cumpridos e os adcionais;
